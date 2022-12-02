@@ -17,4 +17,4 @@ Documetation included on the main folder:
 
       Database source : 'OnlineAuctionDB.sql'
 
-      Documentation : 'Review.docx'
+      Design document : 'Review.docx'
