@@ -13,6 +13,6 @@ Documetation included on the main folder:
 
 Intallation guide: 'Installation Guide.pdf'
 
-Database source : 'dbforum.sql'
+Database source : 'OnlineAuctionDB.sql'
 
 Documentation : 'Review.docx'
