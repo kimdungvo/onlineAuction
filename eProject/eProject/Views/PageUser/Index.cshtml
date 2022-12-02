@@ -1,0 +1,48 @@
+﻿
+@model eProject.Models.User
+@{
+    ViewData["Title"] = "Profile Page";
+}
+
+<div class="container" style="margin:10% 8% 8% 8%;">
+    <div class="row">
+        <div class="col-md-4" style="padding-left:8%;">
+            <!-- Panel -->
+            <h3 class="font-weight-bold dark-grey-text">
+                <strong>Account</strong>
+            </h3>
+            <div class="divider"></div>
+            <p><a class="doimau" style="text-decoration:none" asp-action="Edit" asp-controller="PageUser" asp-route-id="@Model.UserId">Edit Information</a></p>
+            <p><a class="doimau" style="text-decoration:none" href="~/AuctionUser/MyAuction">My auction</a></p>
+            <p><a class="doimau" style="text-decoration:none" href="~/AuctionUser/WonAuction">Auction won</a></p>
+            <p><a class="doimau" style="text-decoration:none" href="~/AuctionUser/JoinAuction">Auction participated</a></p>
+        </div>
+        <div class="col-md-8">
+            <div style="border:1px ridge lightgray;border-radius:10px;">
+                <h1 class="text-center">Profile</h1>
+                <hr />
+                <dl class="row" style="padding:5%">
+                    <dt class="col-sm-3">@Html.DisplayNameFor(s => s.Username)</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(a => a.Username)</dd>
+                    <dt class="col-sm-3">@Html.DisplayNameFor(s => s.FullName)</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(a => a.FullName)</dd>
+                    <dt class="col-sm-3">@Html.DisplayNameFor(s => s.Address)</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(a => a.Address)</dd>
+                    <dt class="col-sm-3">@Html.DisplayNameFor(s => s.Phone)</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(a => a.Phone)</dd>
+                    <dt class="col-sm-3">@Html.DisplayNameFor(s => s.Email)</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(a => a.Email)</dd>
+                    <dt class="col-sm-3">@Html.DisplayNameFor(s => s.Password)</dt>
+                    <dd class="col-sm-8">*** &nbsp;<a asp-action="ResetPass" asp-controller="PageUser" asp-route-id="@Model.UserId" style="text-decoration:none" class="doimau">Change password</a></dd>
+                </dl>
+                <a asp-action="Edit" asp-controller="PageUser" asp-route-id="@Model.UserId" class="btn btn-primary" style="margin:3%;text-decoration:none">Edit</a>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .doimau:hover {
+        color: blue;
+        font-weight: bold;
+    }
+</style>

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<eProject.ViewModel.ViewAuctionWin>
+
+@{
+    ViewData["Title"] = "List Paid";
+    Layout = "~/Areas/Admin/Views/_Layout.cshtml";
+
+}
+<h1 class="text-center">Auction has been paid</h1>
+<br />
+<p style="text-align:right">Total Price: @ViewBag.total</p>
+<table class="table table-hover" id="auction">
+    <thead class="table-success">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Auction.AuctionId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Auction.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Auction.Image)
+            </th>           
+            <th>
+                @Html.DisplayNameFor(model => model.Auction.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Auction.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Auction.SalePrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Buyer.Username)
+            </th>
+            
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Auction.AuctionId</td>
+                <td>@item.Auction.Title</td>
+                <td>
+                    @{ var images = item.Auction.Image.Split(",");
+                        <img src="~/images/@images[0]" style="height: 200px; max-width: 400px">
+                    }
+                </td>               
+                <td>@item.Auction.StartDate</td>
+                <td>@item.Auction.EndDate</td>
+                <td>@item.Auction.SalePrice</td>
+                <td>@item.Buyer.Username</td>                            
+            </tr>
+
+        }
+    </tbody>
+</table>

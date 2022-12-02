@@ -1,0 +1,268 @@
+﻿@model IPagedList<eProject.ViewModel.CatAuctionUser>
+@{
+    ViewData["Title"] = "Auction Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/css/bootstrap.css" rel="stylesheet">
+<style>
+    .ul.pagination {
+        display: inline-block;
+        padding: 0;
+        margin: 0;
+    }
+
+    ul.pagination li {
+        display: inline;
+    }
+
+        ul.pagination li a {
+            color: black;
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+            transition: background-color .3s;
+        }
+
+            ul.pagination li a.active {
+                background-color: #4CAF50;
+                color: white;
+            }
+
+            ul.pagination li a:hover:not(.active) {
+                background-color: #ddd;
+            }
+</style>
+
+<body class="category-v1 hidden-sn white-skin animated">
+
+    <!-- Main Container -->
+    <div class="container mt-5 pt-3">
+
+
+        <!--Navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark primary-color mt-5 mb-5">
+
+            <!-- Navbar brand -->
+            <a class="font-weight-bold white-text mr-4" href="#">Categories</a>
+
+            <!-- Collapse button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Collapsible content -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+
+                <!-- Links -->
+                <ul class="navbar-nav mr-auto">
+                    @foreach (var cat in ViewBag.Category)
+                    {
+                        <li class="nav-item " style="border-left:thin ridge white">
+                            <a class="nav-link" href=" @Url.Action("SearchCat", "PageAuction", new { CatId = cat.CategoryId })">@cat.CategoryName</a>
+                        </li>
+
+                    }
+                </ul>
+                <!-- Links -->
+                
+            </div>
+            <!-- Collapsible content -->
+
+        </nav>
+        <!--/.Navbar-->
+
+
+        <div class="row ">
+
+            <!-- Sidebar -->
+            <div class="col-lg-3">
+
+                <div class="">
+                    <!-- Grid row -->
+                    <div class="row">
+                        <div class="col-md-6 col-lg-12 mb-5">
+                            <!-- Panel -->
+                            <h3 class="font-weight-bold dark-grey-text">
+                                <strong>Order By</strong>
+                            </h3>
+                            <div class="divider"></div>
+                            <p class="dark-grey-text"><a href="@Url.Action("Index", "PageAuction")">Popularity</a></p>
+                            <p class="dark-grey-text"><a href="@Url.Action("OrderPrice", "PageAuction",new { order="low"})">Price: low to high</a></p>
+                            <p class="dark-grey-text"><a href="@Url.Action("OrderPrice", "PageAuction",new { order="high"})">Price: high to low</a></p>
+                        </div>
+
+                        <!-- Filter by category-->
+                        <div class="col-md-6 col-lg-12 mb-5">
+                            <h3 class="font-weight-bold dark-grey-text">
+                                <strong>Category</strong>
+                            </h3>
+                            <div class="divider"></div>
+
+                            <!--Radio group-->
+
+                            @foreach (var cat in ViewBag.Category)
+                            {
+                                <p class="dark-grey-text"><a href="@Url.Action("SearchCat", "PageAuction",new { CatId=cat.CategoryId})">@cat.CategoryName</a></p>
+                            }
+                            <!--Radio group-->
+                        </div>
+                        <!-- /Filter by category-->
+                    </div>
+                    <!-- /Grid row -->
+                    <!-- Grid row -->
+                    <div class="row">
+                        <div class="col-md-6 col-lg-12 mb-5">
+                            <!-- Panel -->
+                            <h3 class="font-weight-bold dark-grey-text">
+                                <strong>Condition</strong>
+                            </h3>
+                            <div class="divider"></div>
+                            <p class="dark-grey-text"><a href="@Url.Action("SearchCondition", "PageAuction",new { cd="New"})">New products</a> </p>
+                            <p class="dark-grey-text"><a href="@Url.Action("SearchCondition", "PageAuction",new { cd="Used"})">Used products</a></p>
+                            <p class="dark-grey-text"><a href="@Url.Action("SearchCondition", "PageAuction",new { cd="Rare"})">Rare product</a></p>
+                        </div>
+                    </div>
+                    <!-- /Grid row -->
+                </div>
+
+            </div>
+            <!-- /.Sidebar -->
+            <!-- Content -->
+            <div class="col-lg-9">
+                <!-- Products Grid -->
+                <section class="section pt-4">
+                    <!-- Search form -->
+                    <form class="search-form" asp-action="Index" asp-controller="PageAuction">
+                        <div class="form-group md-form my-0 waves-light">
+                            <input placeholder="Search name product...." class="form-control" name="searchName" />
+                        </div>
+                    </form>
+                    <!-- Grid row -->
+                    <div class="row">
+                        @foreach (var item in Model)
+                        {
+                            <!--Grid column-->
+                            <div class="col-lg-4 col-md-12 mb-4">
+
+                                <!--Card-->
+                                <div class="card card-ecommerce">
+
+                                    <!--Card image-->
+                                    <div class="view overlay">
+                                        @{
+                                            if (item.Auction.Image != null)
+                                            {
+                                                var images = item.Auction.Image.Split(",");
+                                                //for (int i = 0; i < images.Length; i++)
+                                                //{
+                                                <img src="~/images/@images[0]" class="img-fluid" height="200">
+                                            }
+                                            else
+                                            {
+                                                <img src="~/images/1626433762.jpg" class="img-fluid" />
+                                            }
+
+                                            
+                                        }
+                                        <a>
+                                            <div class="mask rgba-white-slight"></div>
+                                        </a>
+                                    </div>
+                                    <br />
+                                    <!--Card image-->
+                                    <!--Card content-->
+                                    <div class="card-body">
+                                        <!--Category & Title-->
+                                        @if (item.Auction.Status == "Active")
+                                        {
+                                            <span class="badge badge-danger mb-2">New</span>
+                                        }
+                                        else if (item.Auction.Status == "Inactive")
+                                        {
+                                            <span class="badge badge-info mb-2">Finish</span>
+                                        }
+                                        <br />
+                                        <h7 class="card-title mb-1">
+                                            <strong>
+                                                @if (item.Auction.Title.Length < 25)
+                                                {
+                                                    <a href="~/PageAuction/Details/@item.Auction.AuctionId" class="dark-grey-text" style="max-width:inherit">@item.Auction.Title</a>
+                                                }
+                                                else
+                                                {
+                                                    <a href="~/PageAuction/Details/@item.Auction.AuctionId" class="dark-grey-text" style="max-width:inherit">@item.Auction.Title.Remove(25)</a>
+                                                }
+
+                                            </strong>
+                                        </h7>
+                                 
+                                        <!--Card footer-->
+                                        <div class="card-footer pb-0">
+                                            <div class="row mb-0">
+                                                <h6>Current Price : <strong>@item.Auction.SalePrice $</strong></h6>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <!--Card content-->
+
+                                </div>
+                                <!--Card-->
+
+                            </div>
+                            <!--Grid column-->
+                        }
+
+
+                    </div>
+                    <!--Grid row-->
+                </section>
+                <!-- /.Products Grid -->
+                <div id="container" style="margin-left: 20px">
+                    <p style="margin-left:450px">
+                        Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)
+                        of @Model.PageCount
+                    </p>
+                    <p></p>
+                    <div class="pagination" style="margin-left: 400px">
+                         @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+                    </div>
+                </div>
+            </div>
+
+                <!-- /.Content -->
+
+            </div>
+
+    </div>
+    <!-- /.Main Container -->
+    <!-- SCRIPTS -->
+
+
+    <script type="text/javascript">
+        /* WOW.js init */
+        new WOW().init();
+
+        // Tooltips Initialization
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    
+    <script>
+        // Material Select Initialization
+        $(document).ready(function () {
+            $('.mdb-select').material_select();
+        });
+    </script>
+    <script>
+        // SideNav Initialization
+        $(".button-collapse").sideNav();
+    </script>
+</body>
+<link href="~/css/mdb.min.css" rel="stylesheet" />
+<script src="~/js/mdb.min.js"></script>
+<script src="~/js/bootstrap.min.js"></script>

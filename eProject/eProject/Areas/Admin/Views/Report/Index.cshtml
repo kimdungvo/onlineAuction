@@ -1,0 +1,54 @@
+﻿@model IEnumerable<eProject.ViewModel.UserWinnerAuction>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/_Layout.cshtml";
+}
+
+<h1 class="text-center">Report List</h1>
+<table class="table table-hover">
+    <thead class="table-info">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Winner.AuctionId)
+            </th>
+            <th>Auction Name</th>
+            <th>@Html.DisplayNameFor(model => model.Winner.WinnerId)</th>
+            <th>Winner</th>
+            <th>Paid</th>
+            <th>
+                @Html.DisplayNameFor(model => model.Winner.Report)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Winner.AuctionId</td>
+                <td>
+                    @item.Auction.Title
+                </td>
+                <td>@item.Winner.WinnerId</td>
+                <td>
+                    @item.User.Email
+                </td>
+                <td>
+                    @item.Winner.IsCheckOut
+                </td>
+                <td>
+                    @if (item.Winner.Report.Length < 20)
+                    {
+                        <a href="" class="dark-grey-text"> @item.Winner.Report</a>
+                    }
+                    else
+                    {
+                        <a href="" class="dark-grey-text"> @item.Winner.Report.Remove(20)</a>
+                    }
+                </td>
+                <td> @Html.ActionLink("Details", "Details", new { id = item.Winner.AuctionId }, new { @class = "btn btn-success" }) </td>
+            </tr>
+        }
+    </tbody>
+</table>

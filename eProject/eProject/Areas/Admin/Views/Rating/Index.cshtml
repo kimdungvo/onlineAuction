@@ -1,0 +1,57 @@
+﻿@model IEnumerable<eProject.ViewModel.RatingViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/_Layout.cshtml";
+}
+
+<h1 class="text-center">Review List</h1>
+<table class="table table-hover">
+    <thead class="table-danger">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Rating.AuctionId)</th>
+            <th>Auction Name</th>
+            <th>
+                Reviewer
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rating.Star)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rating.Comment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rating.CreateAt)
+            </th>
+            <th>
+                Receiver
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Auction.AuctionId</td>
+                <td>
+                    @item.Auction.Title
+                </td>
+                <td>
+                    @item.Reviewer.Email
+                </td>
+                <td>
+                    @item.Rating.Star
+                </td>
+                <td>
+                    @item.Rating.Comment
+                </td>
+                <td>
+                    @item.Rating.CreateAt
+                </td>
+                <td>
+                    @item.Receiver.Email
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

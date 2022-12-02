@@ -1,0 +1,102 @@
+﻿@model IEnumerable<eProject.ViewModel.CatAuctionUser>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="row" style="margin:auto;margin-top:10%;">
+    <div class="col-md-2" style="padding-left:3%;">
+        <!-- Panel -->       
+        <h3 class="font-weight-bold dark-grey-text" style="padding-left:3%;">
+            <strong>@ViewBag.user.Username</strong>
+        </h3><br />
+        <div class="divider"></div>      
+        <p class="dark-grey-text"><a asp-action="Edit" asp-controller="PageUser" asp-route-id="@ViewBag.user.UserId">Edit Information</a></p>       
+        <p class="dark-grey-text"><a href="~/AuctionUser/MyAuction">My auction</a></p>
+        <p class="dark-grey-text"><a href="~/AuctionUser/WonAuction">Auction won</a></p>
+        <p class="dark-grey-text"><a href="~/AuctionUser/JoinAuction">Auction participated</a></p>
+        
+    </div>
+    <div class="col-md-10 col-xs-12">
+        <h1 class="text-center">My Auction's</h1>
+        <p class="text-danger">@TempData["msg"]</p>
+        <p>
+            <a asp-action="Create" class="btn btn-success">Create New</a>
+        </p>
+        <table class="table table-hover" id="auction">
+            <thead class="table-success">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Auction.AuctionId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Auction.Title)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Auction.Image)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Category.CategoryName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Auction.StartDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Auction.EndDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Auction.MinimumBid)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Auction.BidIncremenent)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Auction.Condition)
+                    </th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Auction.AuctionId</td>
+                        <td>@item.Auction.Title</td>
+                        <td>
+                            @{ var images = item.Auction.Image.Split(",");
+                                <img src="~/images/@images[0]" style="width: 100px">
+                            }
+                        </td>
+                        <td>@item.Category.CategoryName</td>
+                        <td>@item.Auction.StartDate</td>
+                        <td>@item.Auction.EndDate</td>
+                        <td>@item.Auction.MinimumBid</td>
+                        <td>@item.Auction.BidIncremenent</td>
+                        <td>@item.Auction.Condition</td>
+                        <td width="80">
+                            <p>
+                                <a asp-action="Edit" asp-controller="AuctionUser" asp-route-id="@item.Auction.AuctionId" class="btn btn-primary">Edit</a>
+                                <a asp-action="Delete" asp-controller="AuctionUser" asp-route-id="@item.Auction.AuctionId" class="btn btn-danger">Delete</a>
+                            </p>
+                        </td>
+
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<style>
+    a{
+        text-decoration:none;
+    }
+    a:hover {
+        color: blue;
+        font-weight: bold;
+    }
+</style>
+
+
+

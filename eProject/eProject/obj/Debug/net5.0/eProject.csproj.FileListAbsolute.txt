@@ -1,0 +1,968 @@
+D:\apptech\eProject\eProject\bin\Debug\net5.0\appsettings.Development.json
+D:\apptech\eProject\eProject\bin\Debug\net5.0\appsettings.json
+D:\apptech\eProject\eProject\bin\Debug\net5.0\eProject.exe
+D:\apptech\eProject\eProject\bin\Debug\net5.0\eProject.deps.json
+D:\apptech\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.json
+D:\apptech\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.dev.json
+D:\apptech\eProject\eProject\bin\Debug\net5.0\eProject.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ref\eProject.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\eProject.pdb
+D:\apptech\eProject\eProject\bin\Debug\net5.0\eProject.Views.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\eProject.Views.pdb
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Humanizer.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfoInputs.cache
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfo.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CoreCompileInputs.cache
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.MvcApplicationPartsAssemblyInfo.cache
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cache
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.Manifest.cache
+D:\apptech\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.xml
+D:\apptech\eProject\eProject\obj\Debug\net5.0\scopedcss\bundle\eProject.styles.css
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.input.cache
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.output.cache
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.RazorCoreGenerate.cache
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cache
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.Views.pdb
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CopyComplete
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.dll
+D:\apptech\eProject\eProject\obj\Debug\net5.0\ref\eProject.dll
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.pdb
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.genruntimeconfig.cache
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\MailKit.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\MimeKit.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Details.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\apptech\eProject\eProject\bin\Debug\net5.0\log4net.dll
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Stripe.net.dll
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Thanks.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Login.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Register.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Details.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Details.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\_Bid.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Edit.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Rating\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Create.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Edit.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\MyAuction.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\ResetPass.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\AdminAccount.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\LockList.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Create.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Edit.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\JoinAuction.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\WonAuction.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\Rating\Create.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\ProfileSeller\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error2.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Index.cshtml.g.cs
+D:\apptech\eProject\eProject\bin\Debug\net5.0\Mvc.Utility.Core.dll
+D:\apptech\eProject\eProject\obj\Debug\net5.0\Razor\Views\ProfileSeller\Feedback.cshtml.g.cs
+D:\apptech\eProject\eProject\obj\Debug\net5.0\eProject.csproj.AssemblyReference.cache
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\appsettings.Development.json
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\appsettings.json
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.exe
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.deps.json
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.json
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.dev.json
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ref\eProject.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.pdb
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.Views.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.Views.pdb
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Humanizer.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\JetBrains.Annotations.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\log4net.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\MailKit.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\MimeKit.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Mvc.Utility.Core.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\Stripe.net.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\X.PagedList.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Aptech\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.csproj.AssemblyReference.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfoInputs.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfo.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CoreCompileInputs.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.MvcApplicationPartsAssemblyInfo.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.MvcApplicationPartsAssemblyInfo.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.Manifest.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.xml
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\scopedcss\bundle\eProject.styles.css
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.input.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.output.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorCoreGenerate.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Details.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Create.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Details.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Edit.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Rating\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\AdminAccount.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\LockList.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Create.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Edit.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\JoinAuction.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\MyAuction.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\WonAuction.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\ConfirmTemplate.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Thanks.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Details.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\_Bid.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Login.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Register.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Edit.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\ResetPass.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\ProfileSeller\Feedback.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\ProfileSeller\Index.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Rating\Create.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error2.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cache
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cs
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.Views.pdb
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CopyComplete
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.dll
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\ref\eProject.dll
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.pdb
+F:\Aptech\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.genruntimeconfig.cache
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\appsettings.Development.json
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\appsettings.json
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.exe
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.deps.json
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.json
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.dev.json
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ref\eProject.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.pdb
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.Views.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\eProject.Views.pdb
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Humanizer.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\log4net.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\MailKit.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\MimeKit.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Mvc.Utility.Core.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\Stripe.net.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\X.PagedList.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Document\OA-test\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfoInputs.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfo.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CoreCompileInputs.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.Manifest.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.xml
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\scopedcss\bundle\eProject.styles.css
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.input.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.output.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorCoreGenerate.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Details.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Create.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Details.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Edit.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Rating\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\AdminAccount.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\LockList.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Create.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Edit.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\JoinAuction.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\MyAuction.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\WonAuction.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\ConfirmTemplate.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Thanks.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Details.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\_Bid.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Login.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Register.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Edit.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\ResetPass.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\ProfileSeller\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Rating\Create.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error2.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.Views.pdb
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CopyComplete
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.dll
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\ref\eProject.dll
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.pdb
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.genruntimeconfig.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\ListPaid.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\eProject.csproj.AssemblyReference.cache
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Report\Index.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\AddReport.cshtml.g.cs
+D:\Document\OA-test\eProject\eProject\obj\Debug\net5.0\Razor\Views\Rating\SellerCreate.cshtml.g.cs
+F:\eProject\eProject\eProject\bin\Debug\net5.0\appsettings.Development.json
+F:\eProject\eProject\eProject\bin\Debug\net5.0\appsettings.json
+F:\eProject\eProject\eProject\bin\Debug\net5.0\eProject.exe
+F:\eProject\eProject\eProject\bin\Debug\net5.0\eProject.deps.json
+F:\eProject\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.json
+F:\eProject\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.dev.json
+F:\eProject\eProject\eProject\bin\Debug\net5.0\eProject.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ref\eProject.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\eProject.pdb
+F:\eProject\eProject\eProject\bin\Debug\net5.0\eProject.Views.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\eProject.Views.pdb
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Humanizer.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\JetBrains.Annotations.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\log4net.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\MailKit.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\MimeKit.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Mvc.Utility.Core.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\Stripe.net.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\X.PagedList.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.csproj.AssemblyReference.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfoInputs.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfo.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CoreCompileInputs.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.MvcApplicationPartsAssemblyInfo.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.MvcApplicationPartsAssemblyInfo.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.Manifest.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.xml
+F:\eProject\eProject\eProject\obj\Debug\net5.0\scopedcss\bundle\eProject.styles.css
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.input.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.output.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorCoreGenerate.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Details.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\ListPaid.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Create.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Details.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Edit.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Rating\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Report\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\AdminAccount.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\LockList.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Create.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Edit.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\JoinAuction.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\MyAuction.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\WonAuction.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\ConfirmTemplate.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Thanks.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\AddReport.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Details.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\_Bid.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Login.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Register.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Edit.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\ResetPass.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\ProfileSeller\Index.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Rating\Create.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Rating\SellerCreate.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error2.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.Views.pdb
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CopyComplete
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.dll
+F:\eProject\eProject\eProject\obj\Debug\net5.0\ref\eProject.dll
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.pdb
+F:\eProject\eProject\eProject\obj\Debug\net5.0\eProject.genruntimeconfig.cache
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\ConfirmSeller.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Report\Details.cshtml.g.cs
+F:\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Contact.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\appsettings.json
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\eProject.exe
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\eProject.deps.json
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.json
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\eProject.runtimeconfig.dev.json
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\eProject.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ref\eProject.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\eProject.pdb
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\eProject.Views.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\eProject.Views.pdb
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\log4net.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\MailKit.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\MimeKit.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Mvc.Utility.Core.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.csproj.AssemblyReference.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfoInputs.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.AssemblyInfo.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CoreCompileInputs.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorAssemblyInfo.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.Manifest.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\staticwebassets\eProject.StaticWebAssets.xml
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\scopedcss\bundle\eProject.styles.css
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.input.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.TagHelpers.output.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorCoreGenerate.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Details.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Auction\ListPaid.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Create.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Details.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Edit.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\News\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Rating\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Report\Details.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Report\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\AdminAccount.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\LockList.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Create.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\Edit.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\JoinAuction.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\MyAuction.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\AuctionUser\WonAuction.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\ConfirmSeller.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\ConfirmTemplate.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Checkout\Thanks.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\AddReport.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Details.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageAuction\_Bid.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Contact.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Login.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageHome\Register.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Edit.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\PageUser\ResetPass.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\ProfileSeller\Index.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Rating\Create.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Rating\SellerCreate.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\Error2.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cache
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.RazorTargetAssemblyInfo.cs
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.Views.pdb
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.csproj.CopyComplete
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\ref\eProject.dll
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.pdb
+C:\Users\KIM DUNG\Downloads\OnlineAuction_Group3_T1.2008.A0\eProject\eProject\eProject\obj\Debug\net5.0\eProject.genruntimeconfig.cache

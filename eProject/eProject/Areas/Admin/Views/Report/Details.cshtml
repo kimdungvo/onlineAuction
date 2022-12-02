@@ -1,0 +1,53 @@
+﻿@model eProject.ViewModel.UserWinnerAuction
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/_Layout.cshtml";
+}
+
+<h1>Report Details</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Winner.AuctionId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Winner.AuctionId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Auction.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Auction.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Winner.WinnerId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Winner.WinnerId)
+        </dd>
+        <dt class="col-sm-2">
+            Winner
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.User.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Winner.IsCheckOut)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Winner.IsCheckOut)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Winner.Report)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Winner.Report)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
