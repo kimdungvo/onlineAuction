@@ -3,7 +3,7 @@
 
 3 collaborators:
 
-Phan Phúc Thịnh -  - Project lead
+Phan Phúc Thịnh - 1275061 - Project lead
 
 Nguyễn Thị Minh Thư - 1273010 - Dev
 
