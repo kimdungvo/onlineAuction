@@ -14,6 +14,8 @@
 Documetation included on the main folder:
 
       Intallation guide: 'Installation Guide.pdf'
+      
+      User guide: 'User Guide.pdf'
 
       Database source : 'OnlineAuctionDB.sql'
 
